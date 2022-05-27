@@ -1,6 +1,6 @@
 - 👋 Hi, I'm coordinator at Nuclear Physics Laboratory in D.E.I, Agra, India. 
 - 👀 We are interested in studies of cosmic rays (secondaries) by DEASA mini arrays. 
-- 🌱 We currently working on data taking using Data Acquisition System, CORSIKA & GEANT4 simuulations, Analysis.
+- 🌱 We currently working on data taking using Data Acquisition System (DAQ), CORSIKA & GEANT4 simuulations, Analysis.
 - 👀 We are looking to collaborate on Machine learning based studies for Extensive Air Shower (EAS) phenomena.
 - 📫 You can reach us by email: sonalibhatnagar@dei.ac.in
 
